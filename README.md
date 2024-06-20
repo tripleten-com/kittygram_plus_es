@@ -3,7 +3,7 @@
 Clona el repositorio y ábrelo en la interfaz de la línea de comandos: 
 
 ```
-git clone https://github.com/practicum-com/kittygram_plus.git
+git clone https://github.com/tripleten-com/kittygram_plus_es.git
 ```
 
 ```
